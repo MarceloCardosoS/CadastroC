@@ -1,0 +1,21 @@
+﻿  Tarefa1.c
+c:\users\marcelo\documents\visual studio 2015\projects\tarefa1\tarefa1\tarefa1.c(52): warning C4087: 'relatorio': declared with 'void' parameter list
+c:\users\marcelo\documents\visual studio 2015\projects\tarefa1\tarefa1\tarefa1.c(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\marcelo\documents\visual studio 2015\projects\tarefa1\tarefa1\tarefa1.c(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\marcelo\documents\visual studio 2015\projects\tarefa1\tarefa1\tarefa1.c(71): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\marcelo\documents\visual studio 2015\projects\tarefa1\tarefa1\tarefa1.c(66): warning C4101: 'i': unreferenced local variable
+c:\users\marcelo\documents\visual studio 2015\projects\tarefa1\tarefa1\tarefa1.c(66): warning C4101: 'contI': unreferenced local variable
+c:\users\marcelo\documents\visual studio 2015\projects\tarefa1\tarefa1\tarefa1.c(93): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\marcelo\documents\visual studio 2015\projects\tarefa1\tarefa1\tarefa1.c(135): error C2109: subscript requires array or pointer type
+c:\users\marcelo\documents\visual studio 2015\projects\tarefa1\tarefa1\tarefa1.c(137): error C2109: subscript requires array or pointer type
+c:\users\marcelo\documents\visual studio 2015\projects\tarefa1\tarefa1\tarefa1.c(140): error C2109: subscript requires array or pointer type
+c:\users\marcelo\documents\visual studio 2015\projects\tarefa1\tarefa1\tarefa1.c(143): error C2109: subscript requires array or pointer type
+c:\users\marcelo\documents\visual studio 2015\projects\tarefa1\tarefa1\tarefa1.c(149): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\marcelo\documents\visual studio 2015\projects\tarefa1\tarefa1\tarefa1.c(149): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\marcelo\documents\visual studio 2015\projects\tarefa1\tarefa1\tarefa1.c(157): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\marcelo\documents\visual studio 2015\projects\tarefa1\tarefa1\tarefa1.c(167): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
